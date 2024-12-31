@@ -6,6 +6,7 @@ OOP, gerçek dünyadaki nesneleri yazılım dünyasına taşımayı hedefler ve 
 C# dili, OOP prensiplerini destekleyen ve bu paradigmaya uygun güçlü özellikler sunan bir programlama dilidir.
 
 OOP’nin Avantajları
+<br>
 Kodun Yeniden Kullanılabilirliği: Miras alma sayesinde aynı kod farklı projelerde kullanılabilir.
 Bakım Kolaylığı: Kapsülleme, değişiklik yapmayı kolaylaştırır.
 Modülerlik: Kodun farklı bölümleri bağımsız olarak geliştirilebilir ve test edilebilir.
